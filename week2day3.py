@@ -14,6 +14,6 @@ class student:
         self.age =age 
         self.major=major
 s1=student("Ali",20,"cs")
-s2=student("Bilal",22,"math")
+s2=student("Bilal",22,"It")
 print(f"name is {s1.name} and age is {s1.age} and major is {s1.major}")        
 print(f"name is {s2.name} and age is {s2.age} and major is {s2.major}")        
